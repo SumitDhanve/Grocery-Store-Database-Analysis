@@ -51,7 +51,9 @@ Built views for daily reporting dashboards.
 
 Wrote stored procedures to automate monthly sales aggregation.
 
-## Outcome:Enabled data-driven decisions for inventory restocking and promotions.
+## Outcome:
+Enabled data-driven decisions for inventory restocking and promotions.
+
 Improved customer targeting through purchase pattern analysis.
 
 Streamlined supplier selection using performance metrics.
