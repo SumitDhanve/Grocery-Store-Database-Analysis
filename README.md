@@ -1,6 +1,7 @@
 # Grocery Store Database Analysis
 
 **Technologies:** MySQL, SQL (Joins, Aggregations, Views, Subqueries, Stored Procedures)
+
 **Goal:** To analyze sales, inventory, customer behavior, and supplier performance using a relational database for a grocery store.
 
 ## Tables Used:
